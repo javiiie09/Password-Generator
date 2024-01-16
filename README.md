@@ -1,5 +1,5 @@
 # Password-Generator
-Little program generates random passwords with an expecified length.
+Little program that generates random passwords with an expecified length.
 
 # Execute
 ```python password.py```
